@@ -155,6 +155,9 @@ img {
     width: 20rem;
 }
 
+#certificate img {
+    width: 35rem;
+}
 
 aside {
     width: 30%;
